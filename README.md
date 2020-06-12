@@ -13,5 +13,5 @@ No test faliures.
 
 # Actual
 
-`Tests run: 2, Failures: 1, Errors: 0, Skipped: 0`
+`Tests run: 3, Failures: 1, Errors: 0, Skipped: 0`
 
